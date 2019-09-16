@@ -1,6 +1,9 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main(){
-  printf("Hello, world\n");
-  return 0; //exit status
+  for (int counter = 0; counter < 10; counter ++){
+    
+  printf("Hello from Daniel!\n");
+  }
+  return 0;
 }
